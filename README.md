@@ -2,7 +2,7 @@
 
 ## 📚 Studi Kasus: Responsive Design untuk Portofolio Mahasiswa
 
-Proyek ini memperbaiki tampilan situs portofolio **alvan bachrul fathulloh** yang sebelumnya tidak responsif saat dibuka di smartphone. Gambar terlalu besar dan teks meluber keluar layar.
+Proyek ini memperbaiki tampilan situs portofolio **fikri ihza mahendra** yang sebelumnya tidak responsif saat dibuka di smartphone. Gambar terlalu besar dan teks meluber keluar layar.
 
 ### ✅ Solusi
 Menggunakan **responsive design** dan **media queries** di CSS agar layout menyesuaikan ukuran layar pengguna.
